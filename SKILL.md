@@ -3,8 +3,9 @@ name: cultural-transformation-framework
 description: Guide large-scale organizational culture change from toxic/competitive to collaborative/growth-oriented, based on Satya Nadella's methodology for transforming Microsoft's culture.
 license: MIT
 metadata:
+  version: 1.0.3739
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-transformation-framework
 - storytelling
